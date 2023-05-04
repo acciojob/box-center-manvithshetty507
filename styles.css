@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+div{
+	border:2px solid black;
+	width:200px;
+	height:200px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:skyblue;
+	font-weight:600;
+	font-size:17px;
+	color:purple;
+}
